@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoTimeline</string>
+    <string name="playback_duration_separator">/</string>
+</resources>

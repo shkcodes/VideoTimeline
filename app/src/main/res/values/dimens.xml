@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space">8dp</dimen>
+    <dimen name="space_xxlarge">32dp</dimen>
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_2_minus_8dp">64dp</dimen>
+    <dimen name="segment_height">8dp</dimen>
+    <dimen name="playhead_margin_bottom">68dp</dimen>
+    <dimen name="padding_duration_separator">2dp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSurface">#191919</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="segment_1_background">#D81B60</color>
+    <color name="segment_2_background">#158C66</color>
+    <color name="segment_3_background">#ECF016</color>
+
+
+    <array name="segment_backgrounds">
+        <item>@color/segment_1_background</item>
+        <item>@color/segment_2_background</item>
+        <item>@color/segment_3_background</item>
+    </array>
+</resources>
